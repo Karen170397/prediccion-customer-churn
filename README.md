@@ -101,3 +101,10 @@ Repositorio público de IBM utilizado como fuente del conjunto de datos.
 El notebook contiene las etapas necesarias para cargar, preparar y analizar los datos, entrenar los modelos y reproducir los principales resultados del proyecto.
 
 Se utiliza `RANDOM_STATE = 42` en los procesos aleatorios correspondientes para favorecer la reproducibilidad de los resultados.
+
+
+## Video de presentación
+
+El siguiente video presenta el desarrollo, metodología, principales resultados y conclusiones del proyecto.
+
+https://drive.google.com/drive/folders/1pCOPg97ZtbgO8kcO5vbxl9eLTgGtkZga?usp=sharing
